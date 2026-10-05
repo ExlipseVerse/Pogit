@@ -1,0 +1,6 @@
+UPDATE-REF refs/heads/main aaaa1111
+SYMBOLIC-REF HEAD refs/heads/main
+UPDATE-REF refs/tags/v1.0 cccc3333
+SHOW-REF
+UPDATE-REF refs/heads/main bbbb2222
+RESOLVE HEAD

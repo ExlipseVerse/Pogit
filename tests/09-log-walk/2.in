@@ -1,0 +1,3 @@
+COMMIT a1 100 -
+COMMIT b2 200 a1
+LOG b2 10

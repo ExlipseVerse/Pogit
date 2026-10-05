@@ -1,0 +1,8 @@
+HEAD -> refs/heads/main
+ERR refs/heads/main does not exist
+aaaa1111
+aaaa1111 refs/heads/main
+aaaa1111 refs/heads/feature
+aaaa1111 refs/heads/main
+HEAD detached at bbbb2222
+bbbb2222

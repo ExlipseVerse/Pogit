@@ -1,0 +1,5 @@
+OBJ abc123 blob hello world
+QUERY -t abc123
+QUERY -s abc123
+QUERY -p abc123
+QUERY -e abc123

@@ -1,0 +1,4 @@
+COMMIT a 1000 -
+COMMIT b 1000 -
+COMMIT m 2000 a b
+LOG m

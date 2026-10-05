@@ -1,0 +1,11 @@
+TREE sub
+2
+100644 client.py blob 3333
+100644 server.py blob 4444
+TREE root
+3
+40000 src tree sub
+100644 README.md blob 1111
+100755 setup.sh blob 2222
+ROOT root
+WALK
