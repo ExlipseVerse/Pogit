@@ -8,7 +8,7 @@ def hash_blob(content: bytes) -> str:
     """Return the 40-char hex SHA-1 git would assign to this content as a blob."""
     header = f"blob {len(content)}\0".encode("ascii")
     # TODO: SHA-1 the concatenation of header + content; return hexdigest().
-    return ""
+    return print(hashlib.sha1(header+content).hexdigest())
 
 
 def main():
