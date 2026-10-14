@@ -1,3 +1,0 @@
-UPDATE-REF refs/heads/main aaaa1111
-UPDATE-REF refs/heads/feature bbbb2222
-SHOW-REF
